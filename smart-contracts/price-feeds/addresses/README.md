@@ -18,8 +18,8 @@ You can request support for additional chains using [this form](https://tally.so
 [avalanche.md](avalanche.md)
 {% endcontent-ref %}
 
-{% content-ref url="boba.md" %}
-[boba.md](boba.md)
+{% content-ref url="../../witnet-data-feeds/addresses/boba-1.md" %}
+[boba-1.md](../../witnet-data-feeds/addresses/boba-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="celo.md" %}

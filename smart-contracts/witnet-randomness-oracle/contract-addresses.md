@@ -22,6 +22,10 @@ _**Avalanche Mainnet**:_ [`0xa4A73a2A32320282a4d7dDe6a7467AeFA3B7950F`](https://
 
 _**Avalanche Fuji**:_ [`0x0123456fbBC59E181D76B6Fe8771953d1953B51a`](https://testnet.snowtrace.io/address/0x0123456fbbc59e181d76b6fe8771953d1953b51a)
 
+## Base&#x20;
+
+_**Base ETH/L2 Sepolia:**_&#x20;
+
 ## Boba Network
 
 _**Boba BNB/L2 Mainnet:**_ [`0x88888885966F8F77cC6E797aE263C4d091e44A55`](https://blockexplorer.bnb.boba.network/address/0x88888885966F8F77cC6E797aE263C4d091e44A55)&#x20;
