@@ -8,7 +8,7 @@ coverY: 0
 
 ### KCC Mainnet
 
-**WitnetPriceRouter**: [`0xD39D4d972C7E166856c4eb29E54D3548B4597F53`](https://scan.kcc.io/address/0xD39D4d972C7E166856c4eb29E54D3548B4597F53/read-contract)
+**WitnetPriceFeeds**: [`0x1111AbA2164AcdC6D291b08DfB374280035E1111`](https://scan.kcc.io/address/0x1111AbA2164AcdC6D291b08DfB374280035E1111)
 
 | **Caption**                                                                      | **ID4**      | **Heartbeat** | **Deviation** | **Cooldown** |
 | -------------------------------------------------------------------------------- | ------------ | :-----------: | :-----------: | :----------: |
@@ -25,7 +25,7 @@ coverY: 0
 
 ### KCC Testnet
 
-**WitnetPriceFeeds**: [`0x9999999d139bdBFbF25923ba39F63bBFc7593400`](https://scan-testnet.kcc.network/address/0x9999999d139bdBFbF25923ba39F63bBFc7593400/read-proxy#address-tabs)
+**WitnetPriceFeeds**: [`0x1111AbA2164AcdC6D291b08DfB374280035E1111`](https://scan-testnet.kcc.network/address/0x1111AbA2164AcdC6D291b08DfB374280035E1111)
 
 | **Caption**                                                                      | **ID4**      | **Heartbeat** | **Deviation** | **Cooldown** |
 | -------------------------------------------------------------------------------- | ------------ | :-----------: | :-----------: | :----------: |

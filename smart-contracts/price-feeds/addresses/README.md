@@ -34,10 +34,6 @@ You can request support for additional chains using [this form](https://tally.so
 [cronos.md](cronos.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../witnet-data-feeds/addresses/cube-price-feeds.md" %}
-[cube-price-feeds.md](../../witnet-data-feeds/addresses/cube-price-feeds.md)
-{% endcontent-ref %}
-
 {% content-ref url="../../witnet-data-feeds/addresses/dogechain-price-feeds.md" %}
 [dogechain-price-feeds.md](../../witnet-data-feeds/addresses/dogechain-price-feeds.md)
 {% endcontent-ref %}
@@ -50,20 +46,8 @@ You can request support for additional chains using [this form](https://tally.so
 [ethereum.md](ethereum.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../witnet-data-feeds/addresses/fuse-price-feeds.md" %}
-[fuse-price-feeds.md](../../witnet-data-feeds/addresses/fuse-price-feeds.md)
-{% endcontent-ref %}
-
 {% content-ref url="../../witnet-data-feeds/addresses/gnosis-chain-price-feeds.md" %}
 [gnosis-chain-price-feeds.md](../../witnet-data-feeds/addresses/gnosis-chain-price-feeds.md)
-{% endcontent-ref %}
-
-{% content-ref url="harmony.md" %}
-[harmony.md](harmony.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../witnet-data-feeds/addresses/hsc-price-feeds.md" %}
-[hsc-price-feeds.md](../../witnet-data-feeds/addresses/hsc-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/kava-price-feeds.md" %}
@@ -108,10 +92,6 @@ You can request support for additional chains using [this form](https://tally.so
 
 {% content-ref url="../../witnet-data-feeds/addresses/scroll-price-feeds.md" %}
 [scroll-price-feeds.md](../../witnet-data-feeds/addresses/scroll-price-feeds.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../witnet-data-feeds/addresses/smartbch-price-feeds.md" %}
-[smartbch-price-feeds.md](../../witnet-data-feeds/addresses/smartbch-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/syscoin-price-feeds.md" %}
