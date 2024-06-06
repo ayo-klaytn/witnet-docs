@@ -37,16 +37,4 @@ description: >-
 | **Syscoin**                      | <ul><li>nevm mainnet</li><li>nevm testnet</li><li>rollux testnet</li></ul>                             | <ul><li><a href="witnet-data-feeds/addresses/syscoin-price-feeds.md">Price Feeds</a></li><li><a href="witnet-randomness-oracle/contract-addresses.md#syscoin">Randomness</a></li><li><a href="witnet-web-oracle/contracts-addresses.md#syscoin">HTTP GET/POST</a></li></ul>                                                                                  |
 | **Ultron**                       | <ul><li>testnet</li></ul>                                                                              | <ul><li><a href="witnet-data-feeds/addresses/ultron-price-feeds.md">Price Feeds</a></li><li><a href="witnet-randomness-oracle/contract-addresses.md#ultron">Randomness</a></li><li><a href="witnet-web-oracle/contracts-addresses.md#ultron">HTTP GET/POST</a></li></ul>                                                                                     |
 
-### Chains with upcoming support
-
-| Platform                | Networks                                  | Progress     |
-| ----------------------- | ----------------------------------------- | ------------ |
-| **Algorand**            | <ul><li>testnet</li><li>mainnet</li></ul> | TBD          |
-| **Aurora**              | <ul><li>testnet</li><li>mainnet</li></ul> | TBD          |
-| **Avalanche**           | <ul><li>Subnets</li></ul>                 | TBD          |
-| **Gnosis Chain (xDAI)** | <ul><li>mainnet</li></ul>                 | ETA: 2023 Q3 |
-| **Harmony**             | <ul><li>mainnet</li></ul>                 | TBD          |
-| **Hiro**                |                                           | TBD          |
-| **Solana**              | <ul><li>devnet</li><li>mainnet</li></ul>  | TBD          |
-
-### Request support for a new chain
+### [Request support for a new chain](https://tally.so/r/mOP09R)
