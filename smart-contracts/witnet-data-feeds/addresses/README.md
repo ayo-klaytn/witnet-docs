@@ -11,7 +11,7 @@ You can request support for additional chains using [this form](https://tally.so
 {% endhint %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/arbitrum-price-feeds.md" %}
-[arbitrum-price-feeds.md](../../witnet-data-feeds/addresses/arbitrum-price-feeds.md)
+[arbitrum-price-feeds.md](arbitrum-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="avalanche.md" %}
@@ -19,7 +19,7 @@ You can request support for additional chains using [this form](https://tally.so
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/boba-1.md" %}
-[boba-1.md](../../witnet-data-feeds/addresses/boba-1.md)
+[boba-1.md](boba-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="celo.md" %}
@@ -35,11 +35,11 @@ You can request support for additional chains using [this form](https://tally.so
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/dogechain-price-feeds.md" %}
-[dogechain-price-feeds.md](../../witnet-data-feeds/addresses/dogechain-price-feeds.md)
+[dogechain-price-feeds.md](dogechain-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/elastos-price-feeds.md" %}
-[elastos-price-feeds.md](../../witnet-data-feeds/addresses/elastos-price-feeds.md)
+[elastos-price-feeds.md](elastos-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="ethereum.md" %}
@@ -47,11 +47,11 @@ You can request support for additional chains using [this form](https://tally.so
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/gnosis-chain-price-feeds.md" %}
-[gnosis-chain-price-feeds.md](../../witnet-data-feeds/addresses/gnosis-chain-price-feeds.md)
+[gnosis-chain-price-feeds.md](gnosis-chain-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/kava-price-feeds.md" %}
-[kava-price-feeds.md](../../witnet-data-feeds/addresses/kava-price-feeds.md)
+[kava-price-feeds.md](kava-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="kcc.md" %}
@@ -59,11 +59,11 @@ You can request support for additional chains using [this form](https://tally.so
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/klaytn-price-feeds.md" %}
-[klaytn-price-feeds.md](../../witnet-data-feeds/addresses/klaytn-price-feeds.md)
+[klaytn-price-feeds.md](klaytn-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/meter-price-feeds.md" %}
-[meter-price-feeds.md](../../witnet-data-feeds/addresses/meter-price-feeds.md)
+[meter-price-feeds.md](meter-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="metis.md" %}
@@ -75,11 +75,11 @@ You can request support for additional chains using [this form](https://tally.so
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/okxchain-price-feeds.md" %}
-[okxchain-price-feeds.md](../../witnet-data-feeds/addresses/okxchain-price-feeds.md)
+[okxchain-price-feeds.md](okxchain-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/optimism-price-feeds.md" %}
-[optimism-price-feeds.md](../../witnet-data-feeds/addresses/optimism-price-feeds.md)
+[optimism-price-feeds.md](optimism-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="polygon.md" %}
@@ -87,17 +87,17 @@ You can request support for additional chains using [this form](https://tally.so
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/reef-price-feeds.md" %}
-[reef-price-feeds.md](../../witnet-data-feeds/addresses/reef-price-feeds.md)
+[reef-price-feeds.md](reef-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/scroll-price-feeds.md" %}
-[scroll-price-feeds.md](../../witnet-data-feeds/addresses/scroll-price-feeds.md)
+[scroll-price-feeds.md](scroll-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/syscoin-price-feeds.md" %}
-[syscoin-price-feeds.md](../../witnet-data-feeds/addresses/syscoin-price-feeds.md)
+[syscoin-price-feeds.md](syscoin-price-feeds.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/addresses/ultron-price-feeds.md" %}
-[ultron-price-feeds.md](../../witnet-data-feeds/addresses/ultron-price-feeds.md)
+[ultron-price-feeds.md](ultron-price-feeds.md)
 {% endcontent-ref %}

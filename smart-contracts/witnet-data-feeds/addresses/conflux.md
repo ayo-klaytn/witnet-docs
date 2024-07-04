@@ -35,9 +35,9 @@ Clicking on any of the captions above will take you to the corresponding view in
 {% endhint %}
 
 {% content-ref url="../../witnet-data-feeds/price-feeds-registry.md" %}
-[price-feeds-registry.md](../../witnet-data-feeds/price-feeds-registry.md)
+[price-feeds-registry.md](../price-feeds-registry.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../witnet-data-feeds/triggering-conditions.md" %}
-[triggering-conditions.md](../../witnet-data-feeds/triggering-conditions.md)
+[triggering-conditions.md](../triggering-conditions.md)
 {% endcontent-ref %}
